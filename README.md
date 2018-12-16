@@ -4,9 +4,9 @@
 
 - coding challenge inspire by [Kallaway](https://github.com/kallaway/100-days-of-code)
 
-- The goal of this Project is to learn workflow of front end development. 
+- The goal of this Project is to learn workflow of front end development. By the end of this 100 days, I will have a beautiful portfolio with many side projects. 
 
-# Topic I want to learn
+# Topics I want to learn
 ```
 - Html/Css 
 - Javascript (Es6)
@@ -19,6 +19,8 @@
 - Build tools(npm, webpack, grunt, gulp......)
 - Graphical (canvas, Svg)
 - Visual studio code 
+- Basic Terminal usage
+- Data structure and algorithm
 
 ```
 
