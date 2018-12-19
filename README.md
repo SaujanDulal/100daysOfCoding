@@ -24,20 +24,6 @@
 
 ```
 
-# Resources For Each topic
- 
-## 1.  Html/Css 
-## 2.  Javascript (Es6)
-## 3.  CSS and JavaScript Frameworks
-## 4.  CSS Preprocessing, Methodology
-## 5.  Version Control/Git
-## 6.  Responsive Design
-## 7.  Testing/Debugging
-## 8.  Browser Developer Tools
-## 9.  Build tools(npm, webpack, grunt, gulp......)
-## 10. Graphical (canvas, Svg)
-## 11. Visual studio code 
-## 12. Basic Terminal usage
-## 13. Data structure and algorithm
+
 
 
