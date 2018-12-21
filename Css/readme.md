@@ -1,3 +1,8 @@
 1. [CSS Naming Conventions that Will Save You Hours of Debugging(BEM)](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
 2. [The Most Popular Navigation Bars created with Flexbox](https://medium.com/flexbox-and-grids/the-most-popular-navigation-bars-created-with-flexbox-6c0f59f55686)
 3. [How to get better at writing CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
+4. [The most important css concept to learn](https://medium.freecodecamp.org/the-most-important-css-concept-to-learn-8e929c944a19)
+5. [How to write truly terrible CSS](https://medium.freecodecamp.org/how-to-write-truly-terrible-css-214c26c6f729)
+6. [How I started drawing CSS Images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
+7. [BEM](http://getbem.com/)
+8. [All Css Methodologies](https://css-tricks.com/methods-organize-css/)
