@@ -4,3 +4,4 @@
 3. [I finally made sense of front end build tools. You can, too.](https://medium.freecodecamp.org/making-sense-of-front-end-build-tools-3a1b3a87043b)
 4. [The Ultimate Guide to JavaScript Build Tools](https://www.stackchief.com/blog/The%20Ultimate%20Guide%20to%20JavaScript%20Build%20Tools)
 5. [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/)
+6. [Using npm as a Build Tool](https://scotch.io/tutorials/using-npm-as-a-build-tool)
