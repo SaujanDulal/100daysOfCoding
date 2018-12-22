@@ -6,3 +6,7 @@
 6. [How I started drawing CSS Images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
 7. [BEM](http://getbem.com/)
 8. [All Css Methodologies](https://css-tricks.com/methods-organize-css/)
+9. [20 Tips For Writing Modern CSS](https://tutorialzine.com/2016/08/20-protips-for-writing-modern-css)
+
+10. [specificity and inheritance](https://codeburst.io/2-key-css-tips-and-tricks-every-designer-should-master-84650113a416)
+11. [70 Expert Ideas For Better CSS Coding](https://hackhands.com/70-Expert-Ideas-For-Better-CSS-Coding/)
