@@ -5,3 +5,4 @@
 4. [The Ultimate Guide to JavaScript Build Tools](https://www.stackchief.com/blog/The%20Ultimate%20Guide%20to%20JavaScript%20Build%20Tools)
 5. [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/)
 6. [Using npm as a Build Tool](https://scotch.io/tutorials/using-npm-as-a-build-tool)
+7. [Webpack documentation](https://webpack.js.org/)
