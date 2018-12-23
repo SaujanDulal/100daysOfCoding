@@ -10,3 +10,6 @@
 
 10. [specificity and inheritance](https://codeburst.io/2-key-css-tips-and-tricks-every-designer-should-master-84650113a416)
 11. [70 Expert Ideas For Better CSS Coding](https://hackhands.com/70-Expert-Ideas-For-Better-CSS-Coding/)
+12. [Css Specificity](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
+13. [Sass](http://thesassway.com/)
+14. [CSS Modularity and Naming Best Practices](https://zurb.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=D1DB5D1EACAC32B4&ID=0D958ED040AB0E2F&temp=False&tx=0)
