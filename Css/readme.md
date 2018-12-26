@@ -13,3 +13,4 @@
 12. [Css Specificity](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
 13. [Sass](http://thesassway.com/)
 14. [CSS Modularity and Naming Best Practices](https://zurb.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=D1DB5D1EACAC32B4&ID=0D958ED040AB0E2F&temp=False&tx=0)
+15. [Strategies for Keeping CSS Specificity Low](https://css-tricks.com/strategies-keeping-css-specificity-low/)
