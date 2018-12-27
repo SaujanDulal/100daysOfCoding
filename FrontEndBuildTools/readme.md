@@ -6,3 +6,4 @@
 5. [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/)
 6. [Using npm as a Build Tool](https://scotch.io/tutorials/using-npm-as-a-build-tool)
 7. [Webpack documentation](https://webpack.js.org/)
+8. [WebPack 2 tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ&list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os&index=3)(Watch)
