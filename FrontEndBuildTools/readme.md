@@ -7,3 +7,4 @@
 6. [Using npm as a Build Tool](https://scotch.io/tutorials/using-npm-as-a-build-tool)
 7. [Webpack documentation](https://webpack.js.org/)
 8. [WebPack 2 tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ&list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os&index=3)(Watch)
+9. [how to build your first application using Webpack 4](https://blog.novatics.com.br/webpack-4-is-not-an-alien-language-e252ebb0e596)(read)
