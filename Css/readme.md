@@ -15,3 +15,5 @@
 14. [CSS Modularity and Naming Best Practices](https://zurb.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=D1DB5D1EACAC32B4&ID=0D958ED040AB0E2F&temp=False&tx=0)
 15. [Strategies for Keeping CSS Specificity Low](https://css-tricks.com/strategies-keeping-css-specificity-low/)
 16. [Foundation CSS Tutorial Series ](https://www.youtube.com/results?search_query=Foundation+CSS+Tutorial+Series+)
+17. [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319)
+18. [What is Modular CSS?](https://spaceninja.com/2018/09/17/what-is-modular-css/)
