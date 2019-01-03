@@ -17,3 +17,5 @@
 16. [Foundation CSS Tutorial Series ](https://www.youtube.com/results?search_query=Foundation+CSS+Tutorial+Series+)
 17. [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319)
 18. [What is Modular CSS?](https://spaceninja.com/2018/09/17/what-is-modular-css/)
+19. [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)(Read)
+20. [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/#toggle-switch)
