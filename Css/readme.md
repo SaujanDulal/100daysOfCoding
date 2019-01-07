@@ -19,3 +19,5 @@
 18. [What is Modular CSS?](https://spaceninja.com/2018/09/17/what-is-modular-css/)
 19. [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)(Read)
 20. [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/#toggle-switch)
+21. [How Css works](https://blog.logrocket.com/@benjamin.d.johnson)(Medium Article)
+22. [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
