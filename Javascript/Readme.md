@@ -4,3 +4,7 @@
 2. [Mastering Immediately-invoked Function Expressions](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
 
 3. [The Anatomy of a Modern JavaScript Application](https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/)(Read)
+
+## Es6 modules
+1. [Learn the basics of the JavaScript module system and build your own library](https://medium.freecodecamp.org/anatomy-of-js-module-systems-and-building-libraries-fadcd8dbd0e)
+2. [Understanding ES6 Modules](https://www.sitepoint.com/understanding-es6-modules/)
