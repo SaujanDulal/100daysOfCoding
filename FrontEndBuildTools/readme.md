@@ -8,3 +8,6 @@
 7. [Webpack documentation](https://webpack.js.org/)
 8. [WebPack 2 tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ&list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os&index=3)(Watch)
 9. [how to build your first application using Webpack 4](https://blog.novatics.com.br/webpack-4-is-not-an-alien-language-e252ebb0e596)(read)
+10. [Webpack: When To Use And Why](https://blog.andrewray.me/webpack-when-to-use-and-why/)
+11. [Beginners guide to webpack — How to start a basic application with webpack 2](https://medium.com/@ahsan.ayaz/beginners-guide-to-webpack-how-to-start-a-basic-application-with-webpack-2-ebed3172fa8c)
+12. [Lawrence Whiteside Webpack4](https://www.youtube.com/channel/UCuRGaS7uXLAIrCrxKN_Ke7g)(watch)
