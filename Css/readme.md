@@ -21,3 +21,5 @@
 20. [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/#toggle-switch)
 21. [How Css works](https://blog.logrocket.com/@benjamin.d.johnson)(Medium Article)
 22. [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
+23. [How to structure HTML for an actual website](https://zellwk.com/blog/html-structure/)
+24. [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/)
