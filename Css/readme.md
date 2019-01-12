@@ -23,3 +23,6 @@
 22. [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
 23. [How to structure HTML for an actual website](https://zellwk.com/blog/html-structure/)
 24. [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/)
+25. [BEM by Example](https://seesparkbox.com/foundry/bem_by_example)
+26. [Introducing BEM: The popular CSS naming convention](https://assortment.io/posts/introducing-bem-css-naming-convention)
+27. [Used and Abused – CSS Inheritance and Our Misuse of the Cascade](https://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-cascade)
