@@ -10,3 +10,4 @@
 2. [Understanding ES6 Modules](https://www.sitepoint.com/understanding-es6-modules/)
 3. [A 10 minute primer to JavaScript modules, module formats, module loaders and module bundlers](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
 4. [Brief history of JavaScript Modules](https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde)
+5. [Learning JavaScript Design Patterns or module Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#designpatternsjavascript)
