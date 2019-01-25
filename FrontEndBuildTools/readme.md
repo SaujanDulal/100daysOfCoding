@@ -11,3 +11,4 @@
 10. [Webpack: When To Use And Why](https://blog.andrewray.me/webpack-when-to-use-and-why/)
 11. [Beginners guide to webpack — How to start a basic application with webpack 2](https://medium.com/@ahsan.ayaz/beginners-guide-to-webpack-how-to-start-a-basic-application-with-webpack-2-ebed3172fa8c)
 12. [Lawrence Whiteside Webpack4](https://www.youtube.com/channel/UCuRGaS7uXLAIrCrxKN_Ke7g)(watch)
+13. [Switching to Parcel from Webpack](https://logrocket.com/blog/switching-to-parcel-from-webpack/)
