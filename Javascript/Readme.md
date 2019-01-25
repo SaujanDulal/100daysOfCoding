@@ -13,3 +13,4 @@
 5. [Learning JavaScript Design Patterns or module Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#designpatternsjavascript)
 
 [Getting Started with Modern JavaScript](https://www.sitepoint.com/learn/javascript/)
+[Javascript fundamentals tutorials](https://flaviocopes.com/tags/js/)
