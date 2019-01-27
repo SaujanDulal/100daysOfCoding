@@ -13,3 +13,4 @@
 12. [Lawrence Whiteside Webpack4](https://www.youtube.com/channel/UCuRGaS7uXLAIrCrxKN_Ke7g)(watch)
 13. [Switching to Parcel from Webpack](https://logrocket.com/blog/switching-to-parcel-from-webpack/)
 14. [A Beginner’s Guide to Webpack 4 and Module Bundling](https://www.sitepoint.com/beginners-guide-webpack-module-bundling/)
+15. [Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU&t=4s)(watch)
