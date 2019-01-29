@@ -1,3 +1,11 @@
+## Data type
+- [What is Data type](https://searchmicroservices.techtarget.com/definition/data-type)(Read)
+- [Reference vs Primitive Values/ Types](https://www.youtube.com/watch?v=9ooYYRLdg_g)(Watch)
+- [What and where are the stack and heap?](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)(read)
+- [Stack vs Heap](https://www.youtube.com/watch?v=PdvGEI-P3-M)(Watch)
+- [What is the difference between the stack and the heap?](https://www.quora.com/What-is-the-difference-between-the-stack-and-the-heap)(Read)
+
+
 ## Self-invoking function
 1. [self-invoking function. What is it? & Why and How to Use It](https://ilovecoding.org/lessons/self-invoking-anonymous-function-what-is-it-why-and-how-to-use-it)
 
@@ -5,7 +13,8 @@
 
 3. [The Anatomy of a Modern JavaScript Application](https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/)(Read)
 
-## Es6 modules
+## Es6 
+  ### modules
 1. [Learn the basics of the JavaScript module system and build your own library](https://medium.freecodecamp.org/anatomy-of-js-module-systems-and-building-libraries-fadcd8dbd0e)
 2. [Understanding ES6 Modules](https://www.sitepoint.com/understanding-es6-modules/)
 3. [A 10 minute primer to JavaScript modules, module formats, module loaders and module bundlers](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
@@ -14,3 +23,7 @@
 
 [Getting Started with Modern JavaScript](https://www.sitepoint.com/learn/javascript/)
 [Javascript fundamentals tutorials](https://flaviocopes.com/tags/js/)
+
+
+### Destructuring
+- 
