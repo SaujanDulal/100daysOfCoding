@@ -6,6 +6,10 @@
 - [What is the difference between the stack and the heap?](https://www.quora.com/What-is-the-difference-between-the-stack-and-the-heap)(Read)
 
 
+## this in js
+- [THIS keyword - Beau teaches JavaScript](https://www.youtube.com/watch?v=eOI9GzMfd24)(watch)
+- [Understanding the "this" keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)(watch)
+
 ## Self-invoking function
 1. [self-invoking function. What is it? & Why and How to Use It](https://ilovecoding.org/lessons/self-invoking-anonymous-function-what-is-it-why-and-how-to-use-it)
 
@@ -26,4 +30,5 @@
 
 
 ### Destructuring
-- 
+- [Destructuring in ES6 - Beau teaches JavaScript](https://www.youtube.com/watch?v=-vR3a11Wzt0)(watch)
+- [Destructuring](https://www.youtube.com/watch?v=eNPlzq9kPv4)(watch)
