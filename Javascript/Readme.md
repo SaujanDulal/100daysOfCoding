@@ -4,6 +4,8 @@
 - [What and where are the stack and heap?](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)(read)
 - [Stack vs Heap](https://www.youtube.com/watch?v=PdvGEI-P3-M)(Watch)
 - [What is the difference between the stack and the heap?](https://www.quora.com/What-is-the-difference-between-the-stack-and-the-heap)(Read)
+##### Array
+- [Array- shifman](https://www.youtube.com/results?search_query=array+in+javascript+shiffman)(Watch)
 
 
 ## this in js
