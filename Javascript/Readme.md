@@ -35,3 +35,6 @@
 
 ### Arrow Function
 - [Arrow function- Es6- shiffman](https://www.youtube.com/watch?v=mrYMzpbFz18&t=1054s)(Watch)
+
+### Ternary Operator
+- [Ternary Operator - Beau teaches JavaScript](https://www.youtube.com/watch?v=s4sB1hm73tw)
