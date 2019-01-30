@@ -32,3 +32,6 @@
 ### Destructuring
 - [Destructuring in ES6 - Beau teaches JavaScript](https://www.youtube.com/watch?v=-vR3a11Wzt0)(watch)
 - [Destructuring](https://www.youtube.com/watch?v=eNPlzq9kPv4)(watch)
+
+### Arrow Function
+- [Arrow function- Es6- shiffman](https://www.youtube.com/watch?v=mrYMzpbFz18&t=1054s)(Watch)
