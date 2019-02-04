@@ -7,10 +7,11 @@
 ##### Array
 - [Array- shifman](https://www.youtube.com/results?search_query=array+in+javascript+shiffman)(Watch)
 - [Higher order function - byshiffman](https://www.youtube.com/watch?v=H4awPsyugS0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&index=5)(watch)
+- [Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE&t=398s)(Watch)
 
 ## let vs var vs const
-- [let vs var - by shiffman](https://www.youtube.com/watch?v=q8SHaDQdul0&index=1&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&pbjreload=10)
-- [let vs var vs const](https://www.youtube.com/results?search_query=let+vs+var+javascript)
+- [let vs var - by shiffman](https://www.youtube.com/watch?v=q8SHaDQdul0&index=1&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&pbjreload=10)(watch)
+- [let vs var vs const](https://www.youtube.com/results?search_query=let+vs+var+javascript)(watch)
 
 ## this in js
 - [THIS keyword - Beau teaches JavaScript](https://www.youtube.com/watch?v=eOI9GzMfd24)(watch)
@@ -44,3 +45,5 @@
 
 ### Ternary Operator
 - [Ternary Operator - Beau teaches JavaScript](https://www.youtube.com/watch?v=s4sB1hm73tw)
+
+### [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)
