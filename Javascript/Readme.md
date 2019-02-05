@@ -4,14 +4,22 @@
 - [What and where are the stack and heap?](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)(read)
 - [Stack vs Heap](https://www.youtube.com/watch?v=PdvGEI-P3-M)(Watch)
 - [What is the difference between the stack and the heap?](https://www.quora.com/What-is-the-difference-between-the-stack-and-the-heap)(Read)
+
+
 ##### Array
 - [Array- shifman](https://www.youtube.com/results?search_query=array+in+javascript+shiffman)(Watch)
 - [Higher order function - byshiffman](https://www.youtube.com/watch?v=H4awPsyugS0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&index=5)(watch)
 - [Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE&t=398s)(Watch)
 
+
 ##### Object
 - [Object oriented programming in javascript](https://scotch.io/@zellwk)(read)
 - [Prototypal Inheritance](https://www.youtube.com/watch?v=3AKh0-PDsMw)(watch)
+- [Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)(read)
+
+
+#### String
+- [20 String Methods in 7 Minutes - Beau teaches JavaScript](https://www.youtube.com/watch?v=VRz0nbax0uI)(watch)
 
 
 ## let vs var vs const
