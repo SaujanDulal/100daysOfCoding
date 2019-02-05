@@ -1,3 +1,8 @@
+## Javascript
+- [What is JavaScript?-mdn](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)(read)
+- [What is JavaScript and js as a scripting language?](https://www.youtube.com/watch?v=VEzWZav5EkA&list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K&index=3)(watch)
+
+
 ## Data type
 - [What is Data type](https://searchmicroservices.techtarget.com/definition/data-type)(Read)
 - [Reference vs Primitive Values/ Types](https://www.youtube.com/watch?v=9ooYYRLdg_g)(Watch)
