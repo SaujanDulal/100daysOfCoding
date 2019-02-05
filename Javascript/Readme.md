@@ -9,6 +9,11 @@
 - [Higher order function - byshiffman](https://www.youtube.com/watch?v=H4awPsyugS0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&index=5)(watch)
 - [Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE&t=398s)(Watch)
 
+##### Object
+- [Object oriented programming in javascript](https://scotch.io/@zellwk)(read)
+- [Prototypal Inheritance](https://www.youtube.com/watch?v=3AKh0-PDsMw)(watch)
+
+
 ## let vs var vs const
 - [let vs var - by shiffman](https://www.youtube.com/watch?v=q8SHaDQdul0&index=1&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&pbjreload=10)(watch)
 - [let vs var vs const](https://www.youtube.com/results?search_query=let+vs+var+javascript)(watch)
