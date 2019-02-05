@@ -18,9 +18,22 @@
 - [Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)(read)
 
 
-#### String
+##### String
 - [20 String Methods in 7 Minutes - Beau teaches JavaScript](https://www.youtube.com/watch?v=VRz0nbax0uI)(watch)
 
+##### Numbers
+- [Numbers - Beau teaches JavaScript](https://www.youtube.com/watch?v=nBEBraDJkFg)(watch)
+
+##### Undefined & Null
+- [Understanding undefined](https://www.youtube.com/watch?v=oYhyG1M-W-o)(watch)
+- [Null vs Undefined - Beau teaches JavaScript](https://www.youtube.com/watch?v=VwaqJy_clnc)(watch)
+- [Difference between undefined and null](https://www.youtube.com/watch?v=JM-fQHknjh8)(watch)
+- [JavaScript null vs. undefined](https://www.youtube.com/watch?v=spgTd91FAjo)(Watch)
+
+
+
+## Operator 
+- [Type Coersion and the === operator](https://www.youtube.com/watch?v=IQoBAaxR3Ng)(watch)
 
 ## let vs var vs const
 - [let vs var - by shiffman](https://www.youtube.com/watch?v=q8SHaDQdul0&index=1&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&pbjreload=10)(watch)
