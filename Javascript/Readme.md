@@ -81,9 +81,12 @@
 
 ### How javascript works under the hood?
 - [Syntax parser](https://medium.com/@easyexpresssoft/javascript-syntax-parser-4b7f3f320ebe)(read)
+
 - [How JavaScript works: Parsing, Abstract Syntax Trees (ASTs) + 5 tips on how to minimize parse time](https://blog.sessionstack.com/how-javascript-works-parsing-abstract-syntax-trees-asts-5-tips-on-how-to-minimize-parse-time-abfcf7e8a0c8)(Read)
 - [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)(read)
 - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)(Watch)
 - [What is JavaScript and How it works under the hood](https://www.codementor.io/mukuljainx/what-is-javascript-and-how-it-works-under-the-hood-8bqkes6r2)(Read)
 - [Understand javascript in depth core. How it actually works behind the scene. Unlike C, C++, C# etc javascript follows complete different programming paradigm and throughout the course we will try to explain those hidden beautiful aspect of javascript.
 Understand how javascript framework(e.g. jquery) built and build your first javascript framework.](https://www.technolizard.com/base/technology/javascript/introduction/)(Read)
+- [JavaScript: Understanding the Weird Parts.
+In this course you will gain a deep understanding of Javascript, learn how Javascript works under the hood, and how that knowledge helps you avoid common pitfalls and drastically improve your ability to debug problems.](https://www.youtube.com/playlist?list=PLz1XPAFf8IxbIU78QL158l_KlN9CvH5fg)(Watch)
