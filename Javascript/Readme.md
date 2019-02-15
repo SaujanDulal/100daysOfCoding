@@ -39,6 +39,8 @@
 
 ## Operator 
 - [Type Coersion and the === operator](https://www.youtube.com/watch?v=IQoBAaxR3Ng)(watch)
+- [Read and Write operations](https://www.youtube.com/watch?v=EchOXbPyhVI&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=7)(watch)
+
 
 ## let vs var vs const
 - [let vs var - by shiffman](https://www.youtube.com/watch?v=q8SHaDQdul0&index=1&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&pbjreload=10)(watch)
@@ -55,6 +57,15 @@
 
 3. [The Anatomy of a Modern JavaScript Application](https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/)(Read)
 4. [IIFE](https://www.youtube.com/watch?v=q21QSRpNaAQ&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=6)(watch)
+
+## window object 
+- [Window object- when js runs on browser, global object is window](https://www.youtube.com/watch?v=3oD7RQTJqvc&index=9&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)(Watch)
+
+## scopes and closures
+- [Compilation and Interpretation- Nature of Js](https://www.youtube.com/watch?v=tvb_Zl53xLI&index=10&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)(Watch)
+- [Understanding the compilation phase & interpretation phase](https://www.youtube.com/watch?v=9d8Qxq-tJRg&index=11&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)(Watch)
+
+
 
 ## Es6 
   ### modules
