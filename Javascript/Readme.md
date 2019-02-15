@@ -54,6 +54,7 @@
 2. [Mastering Immediately-invoked Function Expressions](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
 
 3. [The Anatomy of a Modern JavaScript Application](https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/)(Read)
+4. [IIFE](https://www.youtube.com/watch?v=q21QSRpNaAQ&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=6)(watch)
 
 ## Es6 
   ### modules
