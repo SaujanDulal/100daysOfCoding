@@ -64,6 +64,10 @@
 ## scopes and closures
 - [Compilation and Interpretation- Nature of Js](https://www.youtube.com/watch?v=tvb_Zl53xLI&index=10&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)(Watch)
 - [Understanding the compilation phase & interpretation phase](https://www.youtube.com/watch?v=9d8Qxq-tJRg&index=11&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)(Watch)
+- [closure](https://www.youtube.com/watch?v=Nj3_DMUXEbE&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=17)(watch)
+
+## Module Pattern
+- [The Module Pattern](https://www.youtube.com/watch?v=yF3GR-7u4y4&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=20)(Watch)
 
 
 
