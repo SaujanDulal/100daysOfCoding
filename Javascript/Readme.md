@@ -21,7 +21,8 @@
 - [Object oriented programming in javascript](https://scotch.io/@zellwk)(read)
 - [Prototypal Inheritance](https://www.youtube.com/watch?v=3AKh0-PDsMw)(watch)
 - [Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)(read)
-
+- [javascript constructor](https://www.youtube.com/watch?v=NmpHR95tZzQ&index=4&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)(Watch)
+- [Introducing the prototype](https://www.youtube.com/watch?v=z19gt-wslCo&index=12&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)(Watch)
 
 ##### String
 - [20 String Methods in 7 Minutes - Beau teaches JavaScript](https://www.youtube.com/watch?v=VRz0nbax0uI)(watch)
@@ -46,11 +47,16 @@
 - [let vs var - by shiffman](https://www.youtube.com/watch?v=q8SHaDQdul0&index=1&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&pbjreload=10)(watch)
 - [let vs var vs const](https://www.youtube.com/results?search_query=let+vs+var+javascript)(watch)
 
+
 ## this in js
 - [THIS keyword - Beau teaches JavaScript](https://www.youtube.com/watch?v=eOI9GzMfd24)(watch)
 - [Understanding the "this" keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)(watch)
+- [The this argument values](https://www.youtube.com/watch?v=aqgOxngcLDg&index=8&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)(Watch)
+- [call property of function object](https://www.youtube.com/watch?v=vvV-GZ6AMMY&index=10&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)(watch)
 
-## Self-invoking function
+## Functions
+- [Function Execution Types](https://www.youtube.com/watch?v=3VXk8h9tKEo&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u&index=7)(Watch)
+#### Self-invoking function
 1. [self-invoking function. What is it? & Why and How to Use It](https://ilovecoding.org/lessons/self-invoking-anonymous-function-what-is-it-why-and-how-to-use-it)
 
 2. [Mastering Immediately-invoked Function Expressions](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
@@ -62,7 +68,7 @@
 - [Window object- when js runs on browser, global object is window](https://www.youtube.com/watch?v=3oD7RQTJqvc&index=9&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)(Watch)
 
 ## scopes and closures
-- [Compilation and Interpretation- Nature of Js](https://www.youtube.com/watch?v=tvb_Zl53xLI&index=10&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)(Watch)
+- [Compilation and Interpretation - Nature of Js](https://www.youtube.com/watch?v=tvb_Zl53xLI&index=10&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)(Watch)
 - [Understanding the compilation phase & interpretation phase](https://www.youtube.com/watch?v=9d8Qxq-tJRg&index=11&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)(Watch)
 - [closure](https://www.youtube.com/watch?v=Nj3_DMUXEbE&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=17)(watch)
 
