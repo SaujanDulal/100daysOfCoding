@@ -23,6 +23,7 @@
 - [Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)(read)
 - [javascript constructor](https://www.youtube.com/watch?v=NmpHR95tZzQ&index=4&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)(Watch)
 - [Introducing the prototype](https://www.youtube.com/watch?v=z19gt-wslCo&index=12&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)(Watch)
+- [Global Object function - Turns out there is a global variable in JavaScript called Object. Which is a function.](https://www.youtube.com/watch?v=eFm3rdarXDA&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u&index=16)(watch)
 
 ##### String
 - [20 String Methods in 7 Minutes - Beau teaches JavaScript](https://www.youtube.com/watch?v=VRz0nbax0uI)(watch)
