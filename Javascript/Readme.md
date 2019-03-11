@@ -120,3 +120,7 @@
 Understand how javascript framework(e.g. jquery) built and build your first javascript framework.](https://www.technolizard.com/base/technology/javascript/introduction/)(Read)
 - [JavaScript: Understanding the Weird Parts.
 In this course you will gain a deep understanding of Javascript, learn how Javascript works under the hood, and how that knowledge helps you avoid common pitfalls and drastically improve your ability to debug problems.](https://www.youtube.com/playlist?list=PLz1XPAFf8IxbIU78QL158l_KlN9CvH5fg)(Watch)
+
+
+### BOOKS
+- [Speaking JavaScript](http://speakingjs.com/es5/index.html#toc_ch19)
