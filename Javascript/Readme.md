@@ -102,7 +102,10 @@
 ### Ternary Operator
 - [Ternary Operator - Beau teaches JavaScript](https://www.youtube.com/watch?v=s4sB1hm73tw)
 
-### [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)
+### Functional Programming in Js
+- [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)(watch)
+- [JavaScript Functional Programming Tutorial](https://www.youtube.com/watch?v=6NPfQJJEySY&index=5&list=PL9ZqDLjDY8PmVejsIWIShSizE6TFwC9tE)(Watch)
+- [Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)(Watch)
 
 ### How javascript works under the hood?
 - [Syntax parser](https://medium.com/@easyexpresssoft/javascript-syntax-parser-4b7f3f320ebe)(read)
