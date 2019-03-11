@@ -109,6 +109,8 @@
 
 ### How javascript works under the hood?
 - [Syntax parser](https://medium.com/@easyexpresssoft/javascript-syntax-parser-4b7f3f320ebe)(read)
+- [How does V8 parse JavaScript and how does it decide what parts to parse / compile upfront?](https://www.youtube.com/watch?v=Fg7niTmNNLg)(watch)
+- [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=C06MohLG_3s)(Watch)
 
 - [How JavaScript works: Parsing, Abstract Syntax Trees (ASTs) + 5 tips on how to minimize parse time](https://blog.sessionstack.com/how-javascript-works-parsing-abstract-syntax-trees-asts-5-tips-on-how-to-minimize-parse-time-abfcf7e8a0c8)(Read)
 - [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)(read)
