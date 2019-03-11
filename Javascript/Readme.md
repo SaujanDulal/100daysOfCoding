@@ -6,6 +6,7 @@
 ## Data type
 - [What is Data type](https://searchmicroservices.techtarget.com/definition/data-type)(Read)
 - [Reference vs Primitive Values/ Types](https://www.youtube.com/watch?v=9ooYYRLdg_g)(Watch)
+- [Primitives](https://www.youtube.com/watch?v=r-Hph-6Awmg&list=PL9ZqDLjDY8PmVejsIWIShSizE6TFwC9tE&index=4)(Watch)
 - [What and where are the stack and heap?](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)(read)
 - [Stack vs Heap](https://www.youtube.com/watch?v=PdvGEI-P3-M)(Watch)
 - [What is the difference between the stack and the heap?](https://www.quora.com/What-is-the-difference-between-the-stack-and-the-heap)(Read)
@@ -47,6 +48,7 @@
 ## let vs var vs const
 - [let vs var - by shiffman](https://www.youtube.com/watch?v=q8SHaDQdul0&index=1&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&pbjreload=10)(watch)
 - [let vs var vs const](https://www.youtube.com/results?search_query=let+vs+var+javascript)(watch)
+- [Difference Between var let & const](https://www.youtube.com/watch?v=Jbl5QRwMlNA&list=PL9ZqDLjDY8PmVejsIWIShSizE6TFwC9tE&index=3)(Watch)
 
 
 ## this in js
