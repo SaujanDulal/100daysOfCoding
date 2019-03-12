@@ -59,21 +59,30 @@
 
 ## Functions
 - [Function Execution Types](https://www.youtube.com/watch?v=3VXk8h9tKEo&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u&index=7)(Watch)
+
 #### Self-invoking function
-1. [self-invoking function. What is it? & Why and How to Use It](https://ilovecoding.org/lessons/self-invoking-anonymous-function-what-is-it-why-and-how-to-use-it)
+- [self-invoking function. What is it? & Why and How to Use It](https://ilovecoding.org/lessons/self-invoking-anonymous-function-what-is-it-why-and-how-to-use-it)
 
-2. [Mastering Immediately-invoked Function Expressions](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
+- [Mastering Immediately-invoked Function Expressions](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
 
-3. [The Anatomy of a Modern JavaScript Application](https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/)(Read)
-4. [IIFE](https://www.youtube.com/watch?v=q21QSRpNaAQ&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=6)(watch)
+- [The Anatomy of a Modern JavaScript Application](https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/)(Read)
+- [IIFE](https://www.youtube.com/watch?v=q21QSRpNaAQ&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=6)(watch)
 
-## window object 
+#### Callback function
+- [What are Callback Functions and How Do They Work?](https://www.youtube.com/watch?v=uPCxgnLOuiQ)(watch)
+
+## Window object 
 - [Window object- when js runs on browser, global object is window](https://www.youtube.com/watch?v=3oD7RQTJqvc&index=9&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)(Watch)
 
 ## scopes and closures
 - [Compilation and Interpretation - Nature of Js](https://www.youtube.com/watch?v=tvb_Zl53xLI&index=10&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)(Watch)
 - [Understanding the compilation phase & interpretation phase](https://www.youtube.com/watch?v=9d8Qxq-tJRg&index=11&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)(Watch)
 - [closure](https://www.youtube.com/watch?v=Nj3_DMUXEbE&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=17)(watch)
+
+
+## Understanding Synchronous vs Asynchronous JavaScript
+- [Understanding Synchronous vs Asynchronous JavaScript](https://www.youtube.com/watch?v=Q-Zmc0E0GYY)(watch)
+
 
 ## Module Pattern
 - [The Module Pattern](https://www.youtube.com/watch?v=yF3GR-7u4y4&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=20)(Watch)
