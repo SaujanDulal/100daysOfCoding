@@ -69,6 +69,7 @@
 - [IIFE](https://www.youtube.com/watch?v=q21QSRpNaAQ&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=6)(watch)
 
 #### Callback function
+- [Understanding JavaScript Callbacks](https://www.youtube.com/watch?v=Nau-iEEgEoM&t=344s)(Watch)
 - [What are Callback Functions and How Do They Work?](https://www.youtube.com/watch?v=uPCxgnLOuiQ)(watch)
 
 ## Window object 
@@ -81,6 +82,7 @@
 
 
 ## Understanding Synchronous vs Asynchronous JavaScript
+- [Understanding Asynchronous JavaScript ** This concept leads to a better understanding of callbacks and promises.](https://www.youtube.com/watch?v=_IGIQ10yX1o&list=PLTo9PCskHpbHIDnzl8tRYldSCSQaFgAHd)(Watch)
 - [Understanding Synchronous vs Asynchronous JavaScript](https://www.youtube.com/watch?v=Q-Zmc0E0GYY)(watch)
 
 
