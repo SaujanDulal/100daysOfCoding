@@ -86,6 +86,8 @@
 - [Understanding Asynchronous JavaScript ** This concept leads to a better understanding of callbacks and promises.](https://www.youtube.com/watch?v=_IGIQ10yX1o&list=PLTo9PCskHpbHIDnzl8tRYldSCSQaFgAHd)(Watch)
 - [Understanding Synchronous vs Asynchronous JavaScript](https://www.youtube.com/watch?v=Q-Zmc0E0GYY)(watch)
 
+## Promises
+- [JavaScript ES6 Promises - Basic Syntax](https://www.youtube.com/watch?v=SmPouEFKOBg)(Watch)
 
 ## Module Pattern
 - [The Module Pattern](https://www.youtube.com/watch?v=yF3GR-7u4y4&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=20)(Watch)
