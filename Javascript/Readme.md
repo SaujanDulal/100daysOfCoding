@@ -85,9 +85,9 @@
 ## Understanding Synchronous vs Asynchronous JavaScript
 - [Understanding Asynchronous JavaScript ** This concept leads to a better understanding of callbacks and promises.](https://www.youtube.com/watch?v=_IGIQ10yX1o&list=PLTo9PCskHpbHIDnzl8tRYldSCSQaFgAHd)(Watch)
 - [Understanding Synchronous vs Asynchronous JavaScript](https://www.youtube.com/watch?v=Q-Zmc0E0GYY)(watch)
+- [Async JavaScript: From Callbacks, to Promises, to Async/Await](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/)(Watch)
 
-## Promises
-- [JavaScript ES6 Promises - Basic Syntax](https://www.youtube.com/watch?v=SmPouEFKOBg)(Watch)
+
 
 ## Module Pattern
 - [The Module Pattern](https://www.youtube.com/watch?v=yF3GR-7u4y4&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=20)(Watch)
@@ -115,6 +115,9 @@
 
 ### Ternary Operator
 - [Ternary Operator - Beau teaches JavaScript](https://www.youtube.com/watch?v=s4sB1hm73tw)
+
+## Promises
+- [JavaScript ES6 Promises](https://www.youtube.com/watch?v=SmPouEFKOBg&list=PLyuRouwmQCjngZXVn48vYmPK_1yAF-fLw)(Watch)
 
 ### Functional Programming in Js
 - [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)(watch)
