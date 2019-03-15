@@ -118,6 +118,8 @@
 
 ## Promises
 - [JavaScript ES6 Promises](https://www.youtube.com/watch?v=SmPouEFKOBg&list=PLyuRouwmQCjngZXVn48vYmPK_1yAF-fLw)(Watch)
+- [About the Call Stack, Event Loop, Callbacks and Promises in JavaScript](https://www.youtube.com/watch?v=RRgAdi3gX-s)(watch)
+- [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)(watch)
 
 ## Fetch( ) method for AJAX calls
 - [Fetch in Under Five](https://www.youtube.com/watch?v=FmpMIaukgfA&list=PLyuRouwmQCjngZXVn48vYmPK_1yAF-fLw&index=5)(Watch)
