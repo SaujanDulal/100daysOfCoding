@@ -119,6 +119,9 @@
 ## Promises
 - [JavaScript ES6 Promises](https://www.youtube.com/watch?v=SmPouEFKOBg&list=PLyuRouwmQCjngZXVn48vYmPK_1yAF-fLw)(Watch)
 
+## Fetch( ) method for AJAX calls
+- [Fetch in Under Five](https://www.youtube.com/watch?v=FmpMIaukgfA&list=PLyuRouwmQCjngZXVn48vYmPK_1yAF-fLw&index=5)(Watch)
+
 ### Functional Programming in Js
 - [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)(watch)
 - [JavaScript Functional Programming Tutorial](https://www.youtube.com/watch?v=6NPfQJJEySY&index=5&list=PL9ZqDLjDY8PmVejsIWIShSizE6TFwC9tE)(Watch)
