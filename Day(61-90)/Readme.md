@@ -12,3 +12,6 @@
 
 ## Day 65
 - Learning Asynchronous javascript from callback to promises to asyn/await
+
+## Day 66
+- Learning Asynchronous javascript from callback to promises to asyn/await and revising my old projects.
