@@ -15,3 +15,6 @@
 
 ## Day 66
 - Learning Asynchronous javascript from callback to promises to asyn/await and revising my old projects.
+
+## Day 67
+- Reviewed old projects and read about webpack 4
