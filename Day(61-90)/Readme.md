@@ -18,3 +18,6 @@
 
 ## Day 67
 - Reviewed old projects and read about webpack 4
+
+## Day 68
+- Learning webpack 4
