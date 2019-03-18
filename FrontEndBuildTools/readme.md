@@ -14,3 +14,4 @@
 13. [Switching to Parcel from Webpack](https://logrocket.com/blog/switching-to-parcel-from-webpack/)
 14. [A Beginner’s Guide to Webpack 4 and Module Bundling](https://www.sitepoint.com/beginners-guide-webpack-module-bundling/)
 15. [Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU&t=4s)(watch)
+16. [Colt Steele - Webpack 4 Course](https://www.youtube.com/watch?v=3On5Z0gjf4U&index=1&list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)(Watch) ***
