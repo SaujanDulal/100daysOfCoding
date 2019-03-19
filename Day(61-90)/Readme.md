@@ -21,3 +21,6 @@
 
 ## Day 68
 - Learning webpack 4
+
+## Day 69
+- Revising vs code and Browser Developer tools
