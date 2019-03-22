@@ -24,3 +24,7 @@
 
 ## Day 69
 - Revising vs code and Browser Developer tools
+
+## Day 70
+- Learned browser developer tools and Css properties
+
