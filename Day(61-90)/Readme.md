@@ -28,3 +28,6 @@
 ## Day 70
 - Learned browser developer tools and Css properties
 
+## Day 71
+- Revising Css
+
