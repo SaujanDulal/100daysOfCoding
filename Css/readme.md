@@ -1,4 +1,7 @@
 
+### Css Properties :
+- [Transitions vs Animations](https://cssanimation.rocks/transition-vs-animation/)(Read)
+
 
 ### Css Methodologies 
 - [CSS Naming Conventions that Will Save You Hours of Debugging(BEM)](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
