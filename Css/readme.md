@@ -1,28 +1,47 @@
-1. [CSS Naming Conventions that Will Save You Hours of Debugging(BEM)](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
-2. [The Most Popular Navigation Bars created with Flexbox](https://medium.com/flexbox-and-grids/the-most-popular-navigation-bars-created-with-flexbox-6c0f59f55686)
-3. [How to get better at writing CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
-4. [The most important css concept to learn](https://medium.freecodecamp.org/the-most-important-css-concept-to-learn-8e929c944a19)
-5. [How to write truly terrible CSS](https://medium.freecodecamp.org/how-to-write-truly-terrible-css-214c26c6f729)
-6. [How I started drawing CSS Images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
-7. [BEM](http://getbem.com/)
-8. [All Css Methodologies](https://css-tricks.com/methods-organize-css/)
-9. [20 Tips For Writing Modern CSS](https://tutorialzine.com/2016/08/20-protips-for-writing-modern-css)
 
-10. [specificity and inheritance](https://codeburst.io/2-key-css-tips-and-tricks-every-designer-should-master-84650113a416)
-11. [70 Expert Ideas For Better CSS Coding](https://hackhands.com/70-Expert-Ideas-For-Better-CSS-Coding/)
-12. [Css Specificity](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
-13. [Sass](http://thesassway.com/)
-14. [CSS Modularity and Naming Best Practices](https://zurb.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=D1DB5D1EACAC32B4&ID=0D958ED040AB0E2F&temp=False&tx=0)
-15. [Strategies for Keeping CSS Specificity Low](https://css-tricks.com/strategies-keeping-css-specificity-low/)
-16. [Foundation CSS Tutorial Series ](https://www.youtube.com/results?search_query=Foundation+CSS+Tutorial+Series+)
-17. [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319)
-18. [What is Modular CSS?](https://spaceninja.com/2018/09/17/what-is-modular-css/)
-19. [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)(Read)
-20. [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/#toggle-switch)
-21. [How Css works](https://blog.logrocket.com/@benjamin.d.johnson)(Medium Article)
-22. [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
-23. [How to structure HTML for an actual website](https://zellwk.com/blog/html-structure/)
-24. [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/)
-25. [BEM by Example](https://seesparkbox.com/foundry/bem_by_example)
-26. [Introducing BEM: The popular CSS naming convention](https://assortment.io/posts/introducing-bem-css-naming-convention)
-27. [Used and Abused – CSS Inheritance and Our Misuse of the Cascade](https://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-cascade)
+
+### Css Methodologies 
+- [CSS Naming Conventions that Will Save You Hours of Debugging(BEM)](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
+- [All Css Methodologies](https://css-tricks.com/methods-organize-css/)
+- [CSS Modularity and Naming Best Practices](https://zurb.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=D1DB5D1EACAC32B4&ID=0D958ED040AB0E2F&temp=False&tx=0)
+- [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319)
+- [What is Modular CSS?](https://spaceninja.com/2018/09/17/what-is-modular-css/)
+- [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)(Read)
+- [30 Seconds of CSS with BEM](https://30-seconds.github.io/30-seconds-of-css/#toggle-switch)
+- [BEM by Example](https://seesparkbox.com/foundry/bem_by_example)
+- [Introducing BEM: The popular CSS naming convention](https://assortment.io/posts/introducing-bem-css-naming-convention)
+- [BEM](http://getbem.com/)
+
+
+
+### Flexbox
+- [The Most Popular Navigation Bars created with Flexbox](https://medium.com/flexbox-and-grids/the-most-popular-navigation-bars-created-with-flexbox-6c0f59f55686)
+
+### Css in general
+- [How to get better at writing CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
+- [The most important css concept to learn](https://medium.freecodecamp.org/the-most-important-css-concept-to-learn-8e929c944a19)
+- [How to write truly terrible CSS](https://medium.freecodecamp.org/how-to-write-truly-terrible-css-214c26c6f729)
+- [How I started drawing CSS Images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
+- [20 Tips For Writing Modern CSS](https://tutorialzine.com/2016/08/20-protips-for-writing-modern-css)
+- [70 Expert Ideas For Better CSS Coding](https://hackhands.com/70-Expert-Ideas-For-Better-CSS-Coding/)
+- [Foundation CSS Tutorial Series ](https://www.youtube.com/results?search_query=Foundation+CSS+Tutorial+Series+)
+- [How Css works](https://blog.logrocket.com/@benjamin.d.johnson)(Medium Article)
+- [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
+- [How to structure HTML for an actual website](https://zellwk.com/blog/html-structure/)
+
+- [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/)
+
+- [Used and Abused – CSS Inheritance and Our Misuse of the Cascade](https://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-cascade)
+
+
+### Specificity
+- [specificity and inheritance](https://codeburst.io/2-key-css-tips-and-tricks-every-designer-should-master-84650113a416)
+- [Css Specificity](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
+- [Strategies for Keeping CSS Specificity Low](https://css-tricks.com/strategies-keeping-css-specificity-low/)
+
+### Sass
+- [Sass](http://thesassway.com/)
+
+
+
+
