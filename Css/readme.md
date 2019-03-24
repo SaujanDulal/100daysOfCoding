@@ -4,6 +4,7 @@
 
 
 ### Css Methodologies 
+- [Writing modular CSS with BEM - Block, Element, Modifier in 6 minutes](https://www.youtube.com/watch?v=iyR6RXUZFQ8)(Watch)
 - [CSS Naming Conventions that Will Save You Hours of Debugging(BEM)](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
 - [All Css Methodologies](https://css-tricks.com/methods-organize-css/)
 - [CSS Modularity and Naming Best Practices](https://zurb.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=D1DB5D1EACAC32B4&ID=0D958ED040AB0E2F&temp=False&tx=0)
@@ -14,6 +15,7 @@
 - [BEM by Example](https://seesparkbox.com/foundry/bem_by_example)
 - [Introducing BEM: The popular CSS naming convention](https://assortment.io/posts/introducing-bem-css-naming-convention)
 - [BEM](http://getbem.com/)
+- [Battling BEM CSS: 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)(Read)
 
 
 
@@ -38,7 +40,7 @@
 
 
 ### Specificity
-- [specificity and inheritance](https://codeburst.io/2-key-css-tips-and-tricks-every-designer-should-master-84650113a416)
+- [Specificity and inheritance](https://codeburst.io/2-key-css-tips-and-tricks-every-designer-should-master-84650113a416)
 - [Css Specificity](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
 - [Strategies for Keeping CSS Specificity Low](https://css-tricks.com/strategies-keeping-css-specificity-low/)
 
