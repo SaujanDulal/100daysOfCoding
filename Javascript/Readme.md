@@ -42,6 +42,7 @@
 
 ## Operator 
 - [Type Coersion and the === operator](https://www.youtube.com/watch?v=IQoBAaxR3Ng)(watch)
+- [Understanding JS: Coercion](https://hackernoon.com/understanding-js-coercion-ff5684475bfc)(Read)
 - [Read and Write operations](https://www.youtube.com/watch?v=EchOXbPyhVI&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=7)(watch)
 
 
