@@ -31,3 +31,6 @@
 ## Day 71
 - Revising Css
 
+## Day 72
+- Revised Js, css, and html. 
+
