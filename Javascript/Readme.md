@@ -7,6 +7,7 @@
 - [What is Data type](https://searchmicroservices.techtarget.com/definition/data-type)(Read)
 - [Reference vs Primitive Values/ Types](https://www.youtube.com/watch?v=9ooYYRLdg_g)(Watch)
 - [Primitives](https://www.youtube.com/watch?v=r-Hph-6Awmg&list=PL9ZqDLjDY8PmVejsIWIShSizE6TFwC9tE&index=4)(Watch)
+- [How JavaScript allows us to work with primitives (strings, numbers, etc.) as if they were objects?](https://javascript.info/primitives-methods)(Read)
 - [What and where are the stack and heap?](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)(read)
 - [Stack vs Heap](https://www.youtube.com/watch?v=PdvGEI-P3-M)(Watch)
 - [What is the difference between the stack and the heap?](https://www.quora.com/What-is-the-difference-between-the-stack-and-the-heap)(Read)
@@ -101,6 +102,11 @@
 - [Modular Javascript - LearnCode.academy Series](https://www.youtube.com/watch?v=HkFlM73G-hk&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)(Watch)
 
 ## Es6 
+
+
+### class
+-[object oriented programming concepts in JavaScript - Object.create(), ES6 Classes & Subclasses - By traversy media](https://www.youtube.com/watch?v=vDJpGenyHaA&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=10)(Watch)
+
   ### modules
 1. [Learn the basics of the JavaScript module system and build your own library](https://medium.freecodecamp.org/anatomy-of-js-module-systems-and-building-libraries-fadcd8dbd0e)
 2. [Understanding ES6 Modules](https://www.sitepoint.com/understanding-es6-modules/)
