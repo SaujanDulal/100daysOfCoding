@@ -34,3 +34,8 @@
 ## Day 72
 - Revised Js, css, and html. 
 
+## Day 73
+- Responsive web design
+- Data structure and algorithm
+- Research on portfolio
+- Es6 classes
