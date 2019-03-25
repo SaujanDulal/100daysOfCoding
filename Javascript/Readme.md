@@ -89,11 +89,16 @@
 - [Async JavaScript: From Callbacks, to Promises, to Async/Await](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/)(Watch)
 
 
+## Event loop
+- [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)(Watch)
+- [Javascript event loop | Every Javascript developer must know !](https://www.youtube.com/watch?v=XzXIMZMN9k4)(Watch)
+
 
 ## Module Pattern
 - [The Module Pattern](https://www.youtube.com/watch?v=yF3GR-7u4y4&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c&index=20)(Watch)
 
-
+## Modular Js
+- [Modular Javascript - LearnCode.academy Series](https://www.youtube.com/watch?v=HkFlM73G-hk&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)(Watch)
 
 ## Es6 
   ### modules
@@ -137,7 +142,6 @@
 
 - [How JavaScript works: Parsing, Abstract Syntax Trees (ASTs) + 5 tips on how to minimize parse time](https://blog.sessionstack.com/how-javascript-works-parsing-abstract-syntax-trees-asts-5-tips-on-how-to-minimize-parse-time-abfcf7e8a0c8)(Read)
 - [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)(read)
-- [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)(Watch)
 - [What is JavaScript and How it works under the hood](https://www.codementor.io/mukuljainx/what-is-javascript-and-how-it-works-under-the-hood-8bqkes6r2)(Read)
 - [Understand javascript in depth core. How it actually works behind the scene. Unlike C, C++, C# etc javascript follows complete different programming paradigm and throughout the course we will try to explain those hidden beautiful aspect of javascript.
 Understand how javascript framework(e.g. jquery) built and build your first javascript framework.](https://www.technolizard.com/base/technology/javascript/introduction/)(Read)
