@@ -39,3 +39,9 @@
 - Data structure and algorithm
 - Research on portfolio
 - Es6 classes
+
+## Day 74
+ TOPICS LEARNED
+- Responsive web design
+- Research on portfolio
+
