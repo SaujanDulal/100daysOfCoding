@@ -45,3 +45,10 @@
 - Responsive web design
 - Research on portfolio
 
+
+## Day 75
+ TOPICS LEARNED
+- Responsive web design
+- Research on portfolio
+- AJAX crash course
+
