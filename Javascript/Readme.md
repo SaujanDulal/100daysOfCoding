@@ -101,6 +101,10 @@
 ## Modular Js
 - [Modular Javascript - LearnCode.academy Series](https://www.youtube.com/watch?v=HkFlM73G-hk&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)(Watch)
 
+## Network requests: AJAX and COMET
+- [Fetch, URL objects, XMLHTTPREQUEST, Websocket](https://javascript.info/xmlhttprequest)(read)
+- [AJAX Crash Course (Vanilla JavaScript)-  We will make xhr requests to a txt file, local json files, an external API and even PHP files.](https://www.youtube.com/watch?v=82hnvUYY6QA&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=12)(Watch)
+
 ## Es6 
 
 
