@@ -52,3 +52,11 @@
 - Research on portfolio
 - AJAX crash course
 
+## Day 76
+ TOPICS LEARNED
+ - Responsive web design
+ - Research on portfolio
+ - Fetch API
+
+
+
