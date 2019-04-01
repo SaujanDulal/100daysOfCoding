@@ -110,6 +110,7 @@
 
 ### class
 -[object oriented programming concepts in JavaScript - Object.create(), ES6 Classes & Subclasses - By traversy media](https://www.youtube.com/watch?v=vDJpGenyHaA&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=10)(Watch)
+- [Javascript Classes — Under The Hood](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)(Read)
 
   ### modules
 1. [Learn the basics of the JavaScript module system and build your own library](https://medium.freecodecamp.org/anatomy-of-js-module-systems-and-building-libraries-fadcd8dbd0e)
