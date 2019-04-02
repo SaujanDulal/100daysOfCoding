@@ -57,6 +57,14 @@
  - Responsive web design
  - Research on portfolio
  - Fetch API
+ 
+## Day 77
+ TOPICS LEARNED
+ - Responsive web design
+ - Sass
+ - Research on portfolio
+ - BookmarkList application with vanilla js
+
 
 
 
