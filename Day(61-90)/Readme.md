@@ -65,6 +65,12 @@
  - Research on portfolio
  - BookmarkList application with vanilla js
 
-
+## Day 78
+ TOPICS LEARNED
+ - Responsive web design
+ - Sass
+ - Research on portfolio
+ - Data Structure and algorithm
+ - Es6 classes
 
 
