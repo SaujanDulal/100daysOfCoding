@@ -112,6 +112,7 @@
 - [Classes in javascript - This video introduces Object-Oriented Programming in JavaScript with ES6 classes -By daniel shiffman](https://www.youtube.com/watch?v=T-HGdc8L-7w)(Watch)
 -[object oriented programming concepts in JavaScript - Object.create(), ES6 Classes & Subclasses - By traversy media](https://www.youtube.com/watch?v=vDJpGenyHaA&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=10)(Watch)
 - [Javascript Classes — Under The Hood](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)(Read)
+- [“Super” and “Extends” In JavaScript ES6 - Understanding The Tough Parts](https://medium.com/beginners-guide-to-mobile-web-development/super-and-extends-in-javascript-es6-understanding-the-tough-parts-6120372d3420)(Read)
 
   ### modules
 1. [Learn the basics of the JavaScript module system and build your own library](https://medium.freecodecamp.org/anatomy-of-js-module-systems-and-building-libraries-fadcd8dbd0e)
