@@ -9,3 +9,8 @@
 ## Existing portfolio examples
 - [15 Web Developer Portfolios to Inspire You](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
 - [Top 12 Web Developer Portfolios to Get Inspirations](https://www.mockplus.com/blog/post/web-developer-portfolio)
+
+
+## Wireframe
+- [How to wireframe a website | CharliMarieTV ](https://www.youtube.com/watch?v=PmmQjLqJQlY)(Watch)
+- [Sketch vs Figma - Why I switched! - charlieMarie](https://www.youtube.com/watch?v=wIyhqEra7Sc&list=PLrJQSKQvgHS5x86bFn9Z2gfw1CQH2zdZW)(Watch)
