@@ -4,3 +4,8 @@
 - [Designing a website - The full process by charliemarie](https://www.youtube.com/watch?v=-Dwo-UOjDuw&list=PLrJQSKQvgHS6BCO8nZScJ9iw7Ukjv4f9C&index=2&t=7s)(Watch)
 - [Rapid Prototyping : Sketching & Paper Prototyping, Digital prototyping and Native prototyping](https://www.youtube.com/watch?v=JMjozqJS44M)(Watch)
 - [Rapid prototyping Google Glass - Tom Chi](https://www.youtube.com/watch?v=d5_h1VuwD6g)(Watch)
+
+
+## Existing portfolio examples
+- [15 Web Developer Portfolios to Inspire You](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
+- [Top 12 Web Developer Portfolios to Get Inspirations](https://www.mockplus.com/blog/post/web-developer-portfolio)
