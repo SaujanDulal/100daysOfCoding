@@ -72,5 +72,11 @@
  - Research on portfolio
  - Data Structure and algorithm
  - Es6 classes
+ 
+ ## Day 79
+ TOPICS LEARNED
+ - I started making wireframe for my portfolio
+ - Learning this tutorial on youtube about custom pdf viewer with javascript.
+
 
 
