@@ -78,5 +78,9 @@
  - I started making wireframe for my portfolio
  - Learning this tutorial on youtube about custom pdf viewer with javascript.
 
+## Day 80
+ TOPICS LEARNED
+  - Responsive web design 
+  - I started making wireframe for my portfolio
 
 
