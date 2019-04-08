@@ -83,4 +83,12 @@
   - Responsive web design 
   - I started making wireframe for my portfolio
 
+## Day 81
+ TOPICS LEARNED
+  - Responsive web design 
+  - Sass variable
+  - Wireframe completed
+  
+  
+
 
