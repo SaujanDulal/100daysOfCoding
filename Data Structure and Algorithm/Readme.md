@@ -1,1 +1,2 @@
+- [What is data structure - why it is so important](https://www.youtube.com/watch?v=jc1t0KFsOcs)(Watch)
 - [Data Structures and Algorithms - Beau teaches - series](https://www.youtube.com/watch?v=Gj5qBheGOEo&list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)(Watch)
