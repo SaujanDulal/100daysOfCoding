@@ -89,6 +89,12 @@
   - Sass variable
   - Wireframe completed
   
-  
+# Day 82
+ TOPICS LEARNED
+  - Responsive web design.
+  - Sass variable and working on website using sass.
+  - Decided not to make a mockup, i will jump into coding.
+  - Finished custom pdf viewer with javascript
+    
 
 
