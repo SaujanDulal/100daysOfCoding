@@ -95,6 +95,16 @@
   - Sass variable and working on website using sass.
   - Decided not to make a mockup, i will jump into coding.
   - Finished custom pdf viewer with javascript
-    
+ 
+# Day 83
+ TOPICS LEARNED
+   - Responsive web design.
+   - Sass -> working on website using sass.
+   - Portfolio -> Looked for some design or i could say some inspiration.
+   - Javascript -> Started new little side project from traversy media
+
+
+ 
+ 
 
 
