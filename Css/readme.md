@@ -50,6 +50,8 @@
 ### Sass
 - [Sass](http://thesassway.com/)
 
+### Learn to Code Advanced HTML & CSS
+ - [Performance & Organization, Responsive Web Design, Transforms, Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/)(Read)
 
 
 
