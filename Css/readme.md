@@ -19,6 +19,7 @@
 - [Introducing BEM: The popular CSS naming convention](https://assortment.io/posts/introducing-bem-css-naming-convention)
 - [BEM](http://getbem.com/)
 - [Battling BEM CSS: 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)(Read)
+- [Atomic design](http://bradfrost.com/blog/post/atomic-web-design/)(read)
 
 
 
