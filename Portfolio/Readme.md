@@ -14,3 +14,7 @@
 ## Wireframe
 - [How to wireframe a website | CharliMarieTV ](https://www.youtube.com/watch?v=PmmQjLqJQlY)(Watch)
 - [Sketch vs Figma - Why I switched! - charlieMarie](https://www.youtube.com/watch?v=wIyhqEra7Sc&list=PLrJQSKQvgHS5x86bFn9Z2gfw1CQH2zdZW)(Watch)
+
+## Front-End Architecture
+- [Front-End Architecture | Setting Up & Organizing your Website Projects | Coding Tutorial](https://www.youtube.com/watch?v=gFKsEab2-iA&t=6s)(Watch)
+
