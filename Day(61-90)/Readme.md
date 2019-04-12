@@ -103,8 +103,11 @@
    - Portfolio -> Looked for some design or i could say some inspiration.
    - Javascript -> Started new little side project from traversy media
 
-
- 
+# Day 84
+ TOPICS LEARNED
+   - Responsive web design.
+   - Sass -> working on website using sass.
+   - Portfolio -> learning project workflow and setup
  
 
 
