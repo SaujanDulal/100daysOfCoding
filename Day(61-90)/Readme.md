@@ -109,5 +109,11 @@
    - Sass -> working on website using sass.
    - Portfolio -> learning project workflow and setup
  
+# Day 85
+ TOPICS LEARNED
+ - Responsive web design -> Finished short course on udacity
+ - Sass -> Mixin and imports features in sass
+ - Data Structure and algorithm -> Learned what and why data structure and algorithm is necessary?
+ - Portfolio -> Studying frontend project worklow. dev environment setup and boilerplate for my portfolio
 
 
