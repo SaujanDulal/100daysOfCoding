@@ -4,6 +4,7 @@
 - [Designing a website - The full process by charliemarie](https://www.youtube.com/watch?v=-Dwo-UOjDuw&list=PLrJQSKQvgHS6BCO8nZScJ9iw7Ukjv4f9C&index=2&t=7s)(Watch)
 - [Rapid Prototyping : Sketching & Paper Prototyping, Digital prototyping and Native prototyping](https://www.youtube.com/watch?v=JMjozqJS44M)(Watch)
 - [Rapid prototyping Google Glass - Tom Chi](https://www.youtube.com/watch?v=d5_h1VuwD6g)(Watch)
+- [Starting A Serious Web Development Project - traversy media](https://www.youtube.com/watch?v=gGGPTskb7c8)(Watch)
 
 
 ## Existing portfolio examples
@@ -17,4 +18,5 @@
 
 ## Front-End Architecture
 - [Front-End Architecture | Setting Up & Organizing your Website Projects | Coding Tutorial](https://www.youtube.com/watch?v=gFKsEab2-iA&t=6s)(Watch)
+- [How I work as Front end Developer](https://www.youtube.com/watch?v=8HvNJ81VzBA)(Watch)
 
