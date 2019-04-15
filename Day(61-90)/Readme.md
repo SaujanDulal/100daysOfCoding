@@ -116,4 +116,7 @@
  - Data Structure and algorithm -> Learned what and why data structure and algorithm is necessary?
  - Portfolio -> Studying frontend project worklow. dev environment setup and boilerplate for my portfolio
 
-
+# Day 86
+ TOPICS LEARNED
+- Responsive web design -> Looked at some resources online.
+- Portfolio -> Working on webpack setup for my portfolio.
