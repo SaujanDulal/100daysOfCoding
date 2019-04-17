@@ -128,5 +128,8 @@
  - Data structure and algorithm -> Learned basics
  - Portfolio -> Working on webpack setup for my portfolio.
 
- 
- 
+# Day 88
+ TOPICS LEARNED 
+  - Css units
+  - Portfolio -> Finished with webpack setup
+
