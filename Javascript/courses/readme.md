@@ -1,1 +1,2 @@
 - [javascript courses by java brain](https://www.youtube.com/user/koushks/playlists?view=50&shelf_id=1&sort=dd)(watch)
+- [Khan academy html css js course](https://www.khanacademy.org/computing/computer-programming)(Practise)
