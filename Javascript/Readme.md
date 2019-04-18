@@ -161,6 +161,11 @@ Understand how javascript framework(e.g. jquery) built and build your first java
 - [JavaScript: Understanding the Weird Parts.
 In this course you will gain a deep understanding of Javascript, learn how Javascript works under the hood, and how that knowledge helps you avoid common pitfalls and drastically improve your ability to debug problems.](https://www.youtube.com/playlist?list=PLz1XPAFf8IxbIU78QL158l_KlN9CvH5fg)(Watch)
 
+## Javascript Library
+- [What's a JS library?, Where are JS libraries hosted?, Using JS libraries,The world of JS libraries,Which JS library should you use?](https://www.khanacademy.org/computing/computer-programming/html-css-js/using-js-libraries-in-your-webpage/a/whats-a-js-library)(Read)
+- [what is the difference between plugin and library?](https://stackoverflow.com/questions/2792312/what-is-the-difference-between-plugin-and-library)(Read)
+- [Introduction to JavaScript libraries, it's benefit & Common libraries used today](https://webplatform.github.io/docs/concepts/programming/javascript/libraries/)(Read)
+
 
 ### BOOKS
 - [Speaking JavaScript](http://speakingjs.com/es5/index.html#toc_ch19)
