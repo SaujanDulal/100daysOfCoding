@@ -133,3 +133,7 @@
   - Css units
   - Portfolio -> Finished with webpack setup
 
+# Day 89
+ TOPICS LEARNED 
+ - what is Js library? why do i need one?
+ - Portfolio -> Trying to upload boilerplate for my every project in github and also new repo for my portfolio.
