@@ -44,6 +44,7 @@
 - [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/)
 
 - [Used and Abused – CSS Inheritance and Our Misuse of the Cascade](https://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-cascade)
+- [My CSS reset](https://zellwk.com/blog/css-reset/)(Read)
 
 
 ### Specificity
