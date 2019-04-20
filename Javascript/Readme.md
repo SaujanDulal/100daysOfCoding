@@ -166,6 +166,7 @@ In this course you will gain a deep understanding of Javascript, learn how Javas
 - [what is the difference between plugin and library?](https://stackoverflow.com/questions/2792312/what-is-the-difference-between-plugin-and-library)(Read)
 - [Introduction to JavaScript libraries, it's benefit & Common libraries used today](https://webplatform.github.io/docs/concepts/programming/javascript/libraries/)(Read)
 - [JavaScripting.com - The Database of JavaScript Libraries](https://www.javascripting.com/)(read)
+- [How to use JSDelivr](https://zellwk.com/blog/jsdelivr/)(Read)
 
 
 ### BOOKS
