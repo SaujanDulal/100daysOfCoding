@@ -23,7 +23,9 @@
 - [BEM](http://getbem.com/)
 - [Battling BEM CSS: 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)(Read)
 - [Atomic design](http://bradfrost.com/blog/post/atomic-web-design/)(read)
-
+- [Smacss folder structure](https://www.youtube.com/watch?v=c3fwnwSRGU0)(Watch)
+   ##### Sass and Bem
+   - [Structuring CSS Class Selectors with Sass](https://www.sitepoint.com/structuring-css-class-selectors-with-sass/)(Read)
 
 
 ### Flexbox
