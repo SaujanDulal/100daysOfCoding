@@ -30,6 +30,7 @@
 
 ### Flexbox
 - [The Most Popular Navigation Bars created with Flexbox](https://medium.com/flexbox-and-grids/the-most-popular-navigation-bars-created-with-flexbox-6c0f59f55686)
+- [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)(Read)
 
 ### Css in general
 - [How to get better at writing CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
