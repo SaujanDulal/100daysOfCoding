@@ -63,5 +63,6 @@
 ### Learn to Code Advanced HTML & CSS
  - [Performance & Organization, Responsive Web Design, Transforms, Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/)(Read)
 
-
-
+### Modular css file structure/architecture
+- [Zell modular css series](https://www.google.com/search?q=zell+modular+css&oq=zell+modular+css&aqs=chrome..69i57j69i60l3.10775j1j9&sourceid=chrome&ie=UTF-8)(Read)
+- [Front-End Architecture | Setting Up & Organizing your Website Projects | Coding Tutorial](https://www.youtube.com/watch?v=gFKsEab2-iA)(Watch)
