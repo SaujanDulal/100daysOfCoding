@@ -141,3 +141,10 @@
 # Day 90
  TOPICS LEARNED
  - Portfolio -> Learning about modular css for my portfolio
+ 
+# Day 91
+ TOPICS LEARNED
+ - Learning flexbox
+ - Learning sass
+ - Data structure and algorithm -> Linked List
+ - Portfolio -> Implemented modular sass structure 
