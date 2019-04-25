@@ -8,7 +8,14 @@
   - [CSS Units (CSS Lengths: rems, ems, pixels, percents, and more)](https://www.youtube.com/watch?v=qrduUUdxBSY&t=684s)(Watch)
   - [REM or EM — What should I use??](https://www.youtube.com/watch?v=UHf3aQz50jQ)(Watch)
 
-
+  #### Css Base styles
+  - [My CSS reset](https://zellwk.com/blog/css-reset/)(Read)
+  - [CSS Reset vs Normalize.CSS](https://www.youtube.com/watch?v=9AO5H6B3tZo)(Watch)
+  - [What is the difference between Normalize.css and Reset CSS?](https://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css)(read)
+  - [Normalize.css Vs Reset.css? Which One to Use?](http://www.satya-weblog.com/2013/11/normalize-css-vs-reset-css-which-one-to-use.html)(Read)
+  - [The problem with browser defaults and the future of resets!](https://www.youtube.com/watch?v=L4wPV-K1lNI)(Watch)
+  
+  
 ### Css Methodologies 
 - [Writing modular CSS with BEM - Block, Element, Modifier in 6 minutes](https://www.youtube.com/watch?v=iyR6RXUZFQ8)(Watch)
 - [CSS Naming Conventions that Will Save You Hours of Debugging(BEM)](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
@@ -47,7 +54,6 @@
 - [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/)
 
 - [Used and Abused – CSS Inheritance and Our Misuse of the Cascade](https://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-cascade)
-- [My CSS reset](https://zellwk.com/blog/css-reset/)(Read)
 
 
 ### Specificity
