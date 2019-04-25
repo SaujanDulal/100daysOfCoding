@@ -1,20 +1,28 @@
 
 ## Css Properties :
+
+  #### Animation
 - [Transitions vs Animations](https://cssanimation.rocks/transition-vs-animation/)(Read)
+
+ #### Width ,height, max-width, min-width
 - [What is the difference between Width and Max-Width?](https://teamtreehouse.com/community/css-question-what-is-the-difference-between-width-and-maxwidth)(Read)
 - [min-width, max-width, width](https://stackoverflow.com/questions/15409091/how-to-use-min-width-max-width-and-width-100)(Read)
 - [Concept of max-width, min-width and max-height,min-height](https://www.youtube.com/watch?v=cY7u36Mcg5E)(Watch)
-  #### Css units
+
+  #### Units
   - [CSS Units (CSS Lengths: rems, ems, pixels, percents, and more)](https://www.youtube.com/watch?v=qrduUUdxBSY&t=684s)(Watch)
   - [REM or EM — What should I use??](https://www.youtube.com/watch?v=UHf3aQz50jQ)(Watch)
 
-  #### Css Base styles
+  #### Base styles
   - [My CSS reset](https://zellwk.com/blog/css-reset/)(Read)
   - [CSS Reset vs Normalize.CSS](https://www.youtube.com/watch?v=9AO5H6B3tZo)(Watch)
   - [What is the difference between Normalize.css and Reset CSS?](https://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css)(read)
   - [Normalize.css Vs Reset.css? Which One to Use?](http://www.satya-weblog.com/2013/11/normalize-css-vs-reset-css-which-one-to-use.html)(Read)
   - [The problem with browser defaults and the future of resets!](https://www.youtube.com/watch?v=L4wPV-K1lNI)(Watch)
   
+  
+  #### Universal selector
+  - [What is the performance impact of the universal selector?](https://stackoverflow.com/questions/2951997/what-is-the-performance-impact-of-the-universal-selector)(Read)
   
 ### Css Methodologies 
 - [Writing modular CSS with BEM - Block, Element, Modifier in 6 minutes](https://www.youtube.com/watch?v=iyR6RXUZFQ8)(Watch)
