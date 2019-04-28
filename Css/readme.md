@@ -58,10 +58,9 @@
 - [How Css works](https://blog.logrocket.com/@benjamin.d.johnson)(Medium Article)
 - [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
 - [How to structure HTML for an actual website](https://zellwk.com/blog/html-structure/)
-
 - [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/)
-
 - [Used and Abused – CSS Inheritance and Our Misuse of the Cascade](https://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-cascade)
+- [8 Best Practices for Perfect CSS Documentation](https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30139)(Read)
 
 
 ### Specificity
@@ -80,3 +79,4 @@
 ### Modular css file structure/architecture
 - [Zell modular css series](https://www.google.com/search?q=zell+modular+css&oq=zell+modular+css&aqs=chrome..69i57j69i60l3.10775j1j9&sourceid=chrome&ie=UTF-8)(Read)
 - [Front-End Architecture | Setting Up & Organizing your Website Projects | Coding Tutorial](https://www.youtube.com/watch?v=gFKsEab2-iA)(Watch)
+- [CSS Architecture with SMACSS (feat. Caleb Meredith)](https://www.youtube.com/watch?v=6co781JgoqQ)(Watch)
