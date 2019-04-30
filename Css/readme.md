@@ -9,20 +9,20 @@
 - [min-width, max-width, width](https://stackoverflow.com/questions/15409091/how-to-use-min-width-max-width-and-width-100)(Read)
 - [Concept of max-width, min-width and max-height,min-height](https://www.youtube.com/watch?v=cY7u36Mcg5E)(Watch)
 
-  #### Units
-  - [CSS Units (CSS Lengths: rems, ems, pixels, percents, and more)](https://www.youtube.com/watch?v=qrduUUdxBSY&t=684s)(Watch)
-  - [REM or EM — What should I use??](https://www.youtube.com/watch?v=UHf3aQz50jQ)(Watch)
+ #### Units
+- [CSS Units (CSS Lengths: rems, ems, pixels, percents, and more)](https://www.youtube.com/watch?v=qrduUUdxBSY&t=684s)(Watch)
+- [REM or EM — What should I use??](https://www.youtube.com/watch?v=UHf3aQz50jQ)(Watch)
 
-  #### Base styles
-  - [My CSS reset](https://zellwk.com/blog/css-reset/)(Read)
-  - [CSS Reset vs Normalize.CSS](https://www.youtube.com/watch?v=9AO5H6B3tZo)(Watch)
-  - [What is the difference between Normalize.css and Reset CSS?](https://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css)(read)
-  - [Normalize.css Vs Reset.css? Which One to Use?](http://www.satya-weblog.com/2013/11/normalize-css-vs-reset-css-which-one-to-use.html)(Read)
-  - [The problem with browser defaults and the future of resets!](https://www.youtube.com/watch?v=L4wPV-K1lNI)(Watch)
+ #### Base styles
+- [My CSS reset](https://zellwk.com/blog/css-reset/)(Read)
+- [CSS Reset vs Normalize.CSS](https://www.youtube.com/watch?v=9AO5H6B3tZo)(Watch)
+- [What is the difference between Normalize.css and Reset CSS?](https://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css)(read)
+- [Normalize.css Vs Reset.css? Which One to Use?](http://www.satya-weblog.com/2013/11/normalize-css-vs-reset-css-which-one-to-use.html)(Read)
+- [The problem with browser defaults and the future of resets!](https://www.youtube.com/watch?v=L4wPV-K1lNI)(Watch)
   
   
-  #### Universal selector
-  - [What is the performance impact of the universal selector?](https://stackoverflow.com/questions/2951997/what-is-the-performance-impact-of-the-universal-selector)(Read)
+ #### Universal selector
+- [What is the performance impact of the universal selector?](https://stackoverflow.com/questions/2951997/what-is-the-performance-impact-of-the-universal-selector)(Read)
   
 ### Css Methodologies 
 - [Writing modular CSS with BEM - Block, Element, Modifier in 6 minutes](https://www.youtube.com/watch?v=iyR6RXUZFQ8)(Watch)
@@ -72,6 +72,8 @@
 - [Sass - Choosing great variable names, How to structure a Sass project](http://thesassway.com/beginner)(read)
 - [Sass series - by Tutorials teacher](https://www.tutorialsteacher.com/sass)(Read)
 - [Sass tutorial series by net ninja](https://www.youtube.com/watch?v=8VAcFxGezjM&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA&index=4)(Watch)
+- [Sass tutorial by Quackit](https://www.quackit.com/sass/tutorial/introduction_to_sass.cfm)(Read)
+- [Sass tutorial series by Brad hussey](https://www.youtube.com/watch?v=aFWhf2wjJYo&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR&index=1)(Watch)
 
 ### Learn to Code Advanced HTML & CSS
  - [Performance & Organization, Responsive Web Design, Transforms, Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/)(Read)
