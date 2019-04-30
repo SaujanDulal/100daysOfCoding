@@ -61,6 +61,7 @@
 - [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/)
 - [Used and Abused – CSS Inheritance and Our Misuse of the Cascade](https://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-cascade)
 - [8 Best Practices for Perfect CSS Documentation](https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30139)(Read)
+- [High-level advice and guidelines for writing sane, manageable, scalable CSS by Harry Roberts](https://cssguidelin.es/)(Read)
 
 
 ### Specificity
@@ -74,6 +75,7 @@
 - [Sass tutorial series by net ninja](https://www.youtube.com/watch?v=8VAcFxGezjM&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA&index=4)(Watch)
 - [Sass tutorial by Quackit](https://www.quackit.com/sass/tutorial/introduction_to_sass.cfm)(Read)
 - [Sass tutorial series by Brad hussey](https://www.youtube.com/watch?v=aFWhf2wjJYo&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR&index=1)(Watch)
+- [Mixins Better for Performance](https://csswizardry.com/2016/02/mixins-better-for-performance/)(Read)
 
 ### Learn to Code Advanced HTML & CSS
  - [Performance & Organization, Responsive Web Design, Transforms, Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/)(Read)
