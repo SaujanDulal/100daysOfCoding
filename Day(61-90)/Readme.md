@@ -148,3 +148,13 @@
  - Learning sass
  - Data structure and algorithm -> Linked List
  - Portfolio -> Implemented modular sass structure 
+ 
+# Day 92
+ TOPICS LEARNED 
+ - Learning flexbox
+ - Learning sass
+ - Data structure and algorithm 
+ - Gk -> how web browser works
+ - Portfolio -> Learning modular css approach
+
+ 
