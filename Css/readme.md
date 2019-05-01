@@ -88,4 +88,4 @@
 - [Front-End Architecture | Setting Up & Organizing your Website Projects | Coding Tutorial](https://www.youtube.com/watch?v=gFKsEab2-iA)(Watch)
 - [CSS Architecture with SMACSS (feat. Caleb Meredith)](https://www.youtube.com/watch?v=6co781JgoqQ)(Watch)
 - [If you've ever experienced pain when writing or maintaining CSS, then you'll find useful information in this book. And if you work in a team, this book can serve as documentation.](https://maintainablecss.com/chapters/introduction/)(Read)
-- [Sass: Directory Structures That Help You Maintain Your Code](https://vanseodesign.com/css/sass-directory-structures/)(Read)
+- [Sass: Directory Structures That Help You Maintain Your Code - Read his other blog post too. They looked fascinating](https://vanseodesign.com/css/sass-directory-structures/)(Read)
