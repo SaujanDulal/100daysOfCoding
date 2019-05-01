@@ -39,6 +39,7 @@
 - [Battling BEM CSS: 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)(Read)
 - [Atomic design](http://bradfrost.com/blog/post/atomic-web-design/)(read)
 - [Smacss folder structure](https://www.youtube.com/watch?v=c3fwnwSRGU0)(Watch)
+- [4 ways to create CSS that's modular and scalable](https://www.creativebloq.com/css3/create-modular-and-scalable-css-9134351)(Read)
    ##### Sass and Bem
    - [Structuring CSS Class Selectors with Sass](https://www.sitepoint.com/structuring-css-class-selectors-with-sass/)(Read)
 
@@ -62,6 +63,7 @@
 - [Used and Abused – CSS Inheritance and Our Misuse of the Cascade](https://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-cascade)
 - [8 Best Practices for Perfect CSS Documentation](https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30139)(Read)
 - [High-level advice and guidelines for writing sane, manageable, scalable CSS by Harry Roberts](https://cssguidelin.es/)(Read)
+- [100 CSS and JavaScript tutorials to boost your skills](https://www.creativebloq.com/web-design-tips/css-and-javascript-1233101)(Read)
 
 
 ### Specificity
@@ -76,6 +78,7 @@
 - [Sass tutorial by Quackit](https://www.quackit.com/sass/tutorial/introduction_to_sass.cfm)(Read)
 - [Sass tutorial series by Brad hussey](https://www.youtube.com/watch?v=aFWhf2wjJYo&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR&index=1)(Watch)
 - [Mixins Better for Performance](https://csswizardry.com/2016/02/mixins-better-for-performance/)(Read)
+- [Sass guidelines by Hugo Giraudel - An opinionated styleguide for writing sane, maintainable and scalable Sass.](https://sass-guidelin.es/#about-the-author)(Read)
 
 ### Learn to Code Advanced HTML & CSS
  - [Performance & Organization, Responsive Web Design, Transforms, Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/)(Read)
@@ -85,3 +88,4 @@
 - [Front-End Architecture | Setting Up & Organizing your Website Projects | Coding Tutorial](https://www.youtube.com/watch?v=gFKsEab2-iA)(Watch)
 - [CSS Architecture with SMACSS (feat. Caleb Meredith)](https://www.youtube.com/watch?v=6co781JgoqQ)(Watch)
 - [If you've ever experienced pain when writing or maintaining CSS, then you'll find useful information in this book. And if you work in a team, this book can serve as documentation.](https://maintainablecss.com/chapters/introduction/)(Read)
+- [Sass: Directory Structures That Help You Maintain Your Code](https://vanseodesign.com/css/sass-directory-structures/)(Read)
