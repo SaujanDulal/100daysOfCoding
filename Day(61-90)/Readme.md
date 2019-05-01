@@ -157,4 +157,12 @@
  - Gk -> how web browser works
  - Portfolio -> Learning modular css approach
 
+ # Day 93
+ TOPICS LEARNED 
+ - Learning flexbox
+ - Learning sass
+ - Data structure and algorithm 
+ - Gk -> how web browser works
+ - Portfolio -> Learning modular css approach
+
  
