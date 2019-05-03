@@ -174,3 +174,9 @@
  - Portfolio -> Learning modular css approach
 
  
+ # Day 95
+ TOPICS LEARNED 
+ - Learning flexbox
+ - Learning sass 
+ - Data structure and algorithm - Classes and Object
+ - Portfolio -> Implemented normalise. Officially started coding from today. I am gonna work on naviagtion bar tomorrow.
