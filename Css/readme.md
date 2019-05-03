@@ -47,6 +47,9 @@
 ### Flexbox
 - [The Most Popular Navigation Bars created with Flexbox](https://medium.com/flexbox-and-grids/the-most-popular-navigation-bars-created-with-flexbox-6c0f59f55686)
 - [Understanding Flexbox: Everything you need to know](https://github.com/ohansemmanuel/Understanding-Flexbox)(Read)
+- [Flexbugs - A community-curated list of flexbox issues and cross-browser workarounds for them.](https://github.com/philipwalton/flexbugs)(Read)
+- [6 classic problems Solved by Flexbox - by philip Walton](https://philipwalton.github.io/solved-by-flexbox/)(Read)
+
 
 ### Css in general
 - [How to get better at writing CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
@@ -89,3 +92,4 @@
 - [CSS Architecture with SMACSS (feat. Caleb Meredith)](https://www.youtube.com/watch?v=6co781JgoqQ)(Watch)
 - [If you've ever experienced pain when writing or maintaining CSS, then you'll find useful information in this book. And if you work in a team, this book can serve as documentation.](https://maintainablecss.com/chapters/introduction/)(Read)
 - [Sass: Directory Structures That Help You Maintain Your Code - Read his other blog post too. They looked fascinating](https://vanseodesign.com/css/sass-directory-structures/)(Read)
+- [CSS Architecture by philip walton, Look at his other articles too. They looks interesting and informative](https://philipwalton.com/articles/css-architecture/)(Read)
