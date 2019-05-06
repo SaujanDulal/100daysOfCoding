@@ -180,3 +180,11 @@
  - Learning sass 
  - Data structure and algorithm - Classes and Object
  - Portfolio -> Implemented normalise. Officially started coding from today. I am gonna work on naviagtion bar tomorrow.
+
+
+ # Day 96
+ TOPICS LEARNED
+  - Learning flexbox : Practise from ohannes e-book
+  - Learning sass : Building small stuff with sass
+  - Portfolio -> Working on home page
+  
