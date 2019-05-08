@@ -20,6 +20,8 @@
 - [Normalize.css Vs Reset.css? Which One to Use?](http://www.satya-weblog.com/2013/11/normalize-css-vs-reset-css-which-one-to-use.html)(Read)
 - [The problem with browser defaults and the future of resets!](https://www.youtube.com/watch?v=L4wPV-K1lNI)(Watch)
   
+ #### Css Typography
+ - [CSS Typography - Techniques and Best Practices](https://www.webfx.com/blog/web-design/css-typography-02/)(Read)
   
  #### Universal selector
 - [What is the performance impact of the universal selector?](https://stackoverflow.com/questions/2951997/what-is-the-performance-impact-of-the-universal-selector)(Read)
