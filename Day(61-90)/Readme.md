@@ -187,4 +187,10 @@
   - Learning flexbox : Practise from ohannes e-book
   - Learning sass : Building small stuff with sass
   - Portfolio -> Working on home page
-  
+
+ # Day 97
+ TOPICS LEARNED
+ - Flexbox and sass
+ - Data stucture and algorithm
+ - How browser renders webpage
+ - Porfolio -> Working on home page
