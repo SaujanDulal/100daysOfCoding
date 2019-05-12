@@ -194,3 +194,13 @@
  - Data stucture and algorithm
  - How browser renders webpage
  - Porfolio -> Working on home page
+ 
+  # Day 98
+ TOPICS LEARNED
+ - Practised online example with HTML SASS 
+ - Data stucture and algorithm
+ - How browser renders webpage
+ - Porfolio -> Working on home page
+ 
+ 
+ 
