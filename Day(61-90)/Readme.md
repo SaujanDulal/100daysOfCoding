@@ -202,5 +202,13 @@
  - How browser renders webpage
  - Porfolio -> Working on home page
  
+  # Day 99
+ TOPICS LEARNED
+ - Practised online example with HTML SASS 
+ - Data stucture and algorithm -> LinkedList
+ - How browser renders webpage
+ - Porfolio -> Working on home page
+ 
+ 
  
  
