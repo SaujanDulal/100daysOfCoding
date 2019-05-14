@@ -6,3 +6,4 @@
 - [The purpose of this article is to explain, in very simple terms, the steps your browser takes to convert HTML, CSS and JavaScript into a working website you can interact with.](https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10)(Read)
 - [How a webpage is loaded and displayed](https://varvy.com/pagespeed/display.html)(read)
 - [Web Application Architecture series](https://www.youtube.com/watch?v=d1Gd-MGaleE&list=PLUU3EzfPr915ebZONvUVHKm8Bls6D7EgA)(watch)
+- [How Do Web Browsers Work?](https://hackernoon.com/how-do-web-browsers-work-40cefd2cb1e1)(Read)
