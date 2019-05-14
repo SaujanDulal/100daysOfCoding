@@ -209,6 +209,9 @@
  - How browser renders webpage
  - Porfolio -> Working on home page
  
+  # Day 100
+  - Completed 100 days
+
  
  
  
