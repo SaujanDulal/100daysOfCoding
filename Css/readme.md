@@ -78,6 +78,7 @@
 
 ### Sass
 - [Sass - Basic and easy to follow and read](https://dev.to/sarah_chima/sass--getting-started-bbc)(Read)
+- [Sass articles](https://dev.to/t/scss)(Read)
 - [Sass - Choosing great variable names, How to structure a Sass project](http://thesassway.com/beginner)(read)
 - [Sass series - by Tutorials teacher](https://www.tutorialsteacher.com/sass)(Read)
 - [Sass tutorial series by net ninja](https://www.youtube.com/watch?v=8VAcFxGezjM&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA&index=4)(Watch)
