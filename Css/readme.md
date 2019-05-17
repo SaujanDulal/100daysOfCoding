@@ -25,6 +25,9 @@
   
  #### Universal selector
 - [What is the performance impact of the universal selector?](https://stackoverflow.com/questions/2951997/what-is-the-performance-impact-of-the-universal-selector)(Read)
+
+ #### Debugging Css
+ - [Learn This One Weird 🙊 Trick To Debug CSS](https://medium.freecodecamp.org/heres-my-favorite-weird-trick-to-debug-css-88529aa5a6a3)(Read)
   
 ### Css Methodologies 
 - [Writing modular CSS with BEM - Block, Element, Modifier in 6 minutes](https://www.youtube.com/watch?v=iyR6RXUZFQ8)(Watch)
